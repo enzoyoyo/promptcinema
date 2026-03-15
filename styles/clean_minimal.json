@@ -1,0 +1,13 @@
+{
+  "style_name": "clean_minimal",
+  "description": "Bright, airy, aspirational. Apple-commercial energy without feeling corporate.",
+  "description_zh": "明亮、通透、令人向往。苹果广告的质感但不显商业化。",
+  "camera": "Sony FX6",
+  "lens": "Sony G Master 50mm f/1.2",
+  "color_grade": "Lifted Shadows + Warm Highlights + Desaturated Midtones",
+  "lighting": "Soft Window Light + Bounce Fill",
+  "grain": "Minimal digital noise, clean sensor",
+  "mood": "aspirational, clean, modern, warm",
+  "best_for": ["skincare", "lifestyle", "product showcase", "wellness"],
+  "prompt_suffix": "shot on Sony FX6 with G Master 50mm f/1.2, lifted shadows with warm highlights and desaturated midtones, soft window light with bounce fill, minimal grain clean digital aesthetic"
+}

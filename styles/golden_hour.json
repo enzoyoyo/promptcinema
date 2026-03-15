@@ -1,0 +1,13 @@
+{
+  "style_name": "golden_hour",
+  "description": "Magic hour warmth. That 'main character moment' golden glow.",
+  "description_zh": "魔幻时刻的温暖。那种'主角光环'般的金色光芒。",
+  "camera": "Canon C70",
+  "lens": "Canon CN-E 85mm T1.3",
+  "color_grade": "Warm Orange Push + Soft Halation + K-Tone",
+  "lighting": "Golden Hour Backlight + Lens Flare",
+  "grain": "35mm Fuji Eterna Vivid 500",
+  "mood": "warm, dreamy, nostalgic, romantic",
+  "best_for": ["romance", "travel", "glow-up", "lifestyle transformation"],
+  "prompt_suffix": "shot on Canon C70 with CN-E 85mm T1.3, warm orange color push with soft halation and K-tone grade, golden hour backlight with natural lens flare, 35mm Fuji Eterna Vivid 500 grain, warm dreamy nostalgic aesthetic"
+}
