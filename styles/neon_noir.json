@@ -1,0 +1,13 @@
+{
+  "style_name": "neon_noir",
+  "description": "Blade Runner meets Instagram. Moody, saturated neons, deep shadows.",
+  "description_zh": "银翼杀手遇上 Instagram。情绪化的饱和霓虹与深邃暗影。",
+  "camera": "ARRI ALEXA Mini LF",
+  "lens": "Cooke S7/i 40mm T2.0",
+  "color_grade": "Crushed Blacks + Neon Cyan/Magenta Split Tone",
+  "lighting": "Neon Practicals + Hard Edge Kicker + Haze",
+  "grain": "35mm Kodak Vision3 500T",
+  "mood": "moody, cyberpunk, nocturnal, edgy",
+  "best_for": ["nightlife", "fashion", "music content", "dramatic transformation"],
+  "prompt_suffix": "shot on ARRI ALEXA Mini LF with Cooke S7/i 40mm, crushed blacks with neon cyan and magenta split toning, lit by neon practicals with hard edge kicker through haze, 35mm Kodak Vision3 500T grain, moody cyberpunk aesthetic"
+}

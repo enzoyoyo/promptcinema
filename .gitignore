@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Production files
+broll*/
+production/
+output/
+exports/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Images (keep templates, ignore generated)
+generated/
+*.png
+*.jpg
+*.jpeg
+!examples/*.png
+!examples/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Environment
+.env
+.env.local
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Node (if using n8n or other JS tools)
+node_modules/
+package-lock.json

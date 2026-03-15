@@ -1,0 +1,51 @@
+{
+  "platforms": {
+    "tiktok": {
+      "resolution": "1080x1920",
+      "aspect_ratio": "9:16",
+      "frame_rate": "30fps",
+      "codec": "H.264",
+      "max_duration_seconds": 60,
+      "recommended_duration_seconds": 15,
+      "max_file_size_mb": 287,
+      "audio_codec": "AAC",
+      "audio_bitrate": "128kbps"
+    },
+    "instagram_reels": {
+      "resolution": "1080x1920",
+      "aspect_ratio": "9:16",
+      "frame_rate": "30fps",
+      "codec": "H.264",
+      "max_duration_seconds": 90,
+      "recommended_duration_seconds": 15,
+      "max_file_size_mb": 250,
+      "audio_codec": "AAC",
+      "audio_bitrate": "128kbps"
+    },
+    "youtube_shorts": {
+      "resolution": "1080x1920",
+      "aspect_ratio": "9:16",
+      "frame_rate": "30fps",
+      "codec": "H.264",
+      "max_duration_seconds": 60,
+      "recommended_duration_seconds": 15,
+      "max_file_size_mb": 256,
+      "audio_codec": "AAC",
+      "audio_bitrate": "128kbps"
+    }
+  },
+  "capcut_settings": {
+    "project_resolution": "1080x1920",
+    "project_frame_rate": "30fps",
+    "export_quality": "high",
+    "text_overlay": {
+      "font_size": "medium-large",
+      "position": "center or lower-third",
+      "style": "bold, high contrast, readable",
+      "max_words": 6
+    },
+    "editing_rhythm": "cut-on-beat",
+    "ending": "natural, no logo, no CTA"
+  },
+  "ffmpeg_export_command": "ffmpeg -i input.mp4 -c:v libx264 -preset slow -crf 18 -vf scale=1080:1920 -r 30 -c:a aac -b:a 128k -movflags +faststart output_final.mp4"
+}

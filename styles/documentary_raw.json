@@ -1,0 +1,13 @@
+{
+  "style_name": "documentary_raw",
+  "description": "Handheld authenticity. Feels like someone grabbed a camera and captured a real moment.",
+  "description_zh": "手持式的真实感。像某人抓起相机记录下的真实瞬间。",
+  "camera": "Sony A7S III",
+  "lens": "Sony 24mm f/1.4 GM",
+  "color_grade": "Flat Profile + Subtle Contrast + Muted Colors",
+  "lighting": "100% Available Light",
+  "grain": "High ISO digital noise, subtle",
+  "mood": "authentic, intimate, unpolished, real",
+  "best_for": ["day-in-the-life", "raw transformation", "emotional content", "vlog style"],
+  "prompt_suffix": "shot on Sony A7S III with 24mm f/1.4 GM, flat profile with subtle contrast and muted colors, 100% available light, slight high ISO digital noise, authentic documentary handheld aesthetic"
+}

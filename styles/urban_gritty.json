@@ -1,0 +1,13 @@
+{
+  "style_name": "urban_gritty",
+  "description": "Raw street-level aesthetic. Feels like a documentary crew followed someone through the city.",
+  "description_zh": "原始街头美学。像纪录片团队跟拍的真实质感。",
+  "camera": "RED V-RAPTOR 8K",
+  "lens": "Zeiss Super Speed MKII 35mm",
+  "color_grade": "Bleach Bypass + Teal Shadows",
+  "lighting": "Available Light + Practicals",
+  "grain": "16mm Kodak 7219 500T",
+  "mood": "raw, documentary, street-level",
+  "best_for": ["transformation shorts", "fitness content", "street style", "before/after"],
+  "prompt_suffix": "shot on RED V-RAPTOR with Zeiss Super Speed MKII 35mm, bleach bypass color grade with teal shadows, available light with practicals, 16mm Kodak 7219 500T grain, raw documentary street-level aesthetic"
+}
